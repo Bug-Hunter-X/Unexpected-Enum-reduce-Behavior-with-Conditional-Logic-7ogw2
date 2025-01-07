@@ -1,0 +1,2 @@
+# Elixir Enum.reduce Bug
+This repository demonstrates a subtle bug that can occur when using `Enum.reduce` in Elixir with conditional logic inside the reducing function.  The example showcases a scenario where the conditional logic unexpectedly impacts the accumulator's value. The solution provides a corrected version and explains how to avoid this issue.
